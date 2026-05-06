@@ -1,0 +1,16 @@
+# Local workspace and source material not part of the M2 publication package
+.claude/
+.obsidian/
+node_modules/
+raw/
+scripts/
+Brand assets-20260504T064832Z-3-002/
+Brand assets-20260504T064832Z-3-002.zip
+
+# Local/generated artifacts
+*.xlsx
+*.base
+*.tmp
+~$*
+CPC_Research_Knowledge_Graph.html
+
