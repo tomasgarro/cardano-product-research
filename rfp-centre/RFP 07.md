@@ -11,7 +11,7 @@ sources: [RFP-07-L2-Adoption-and-Interoperability-Demand-Study.md]
 
 # RFP 07 - L2 Adoption and Interoperability Demand Study
 
-Full tender specification: [RFP-07-L2-Adoption-and-Interoperability-Demand-Study.md](../../rfq/RFP-07-L2-Adoption-and-Interoperability-Demand-Study.md)
+Full tender specification: [RFP-07-L2-Adoption-and-Interoperability-Demand-Study.md](../rfp-full-draft/RFP-07-L2-Adoption-and-Interoperability-Demand-Study.md)
 
 ## At a Glance
 

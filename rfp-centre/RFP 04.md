@@ -11,7 +11,7 @@ sources: [RFP-04-Brand-Awareness-and-Perception.md]
 
 # RFP 04 - Brand Awareness and Perception
 
-Full tender specification: [RFP-04-Brand-Awareness-and-Perception.md](../../rfq/RFP-04-Brand-Awareness-and-Perception.md)
+Full tender specification: [RFP-04-Brand-Awareness-and-Perception.md](../rfp-full-draft/RFP-04-Brand-Awareness-and-Perception.md)
 
 ## At a Glance
 

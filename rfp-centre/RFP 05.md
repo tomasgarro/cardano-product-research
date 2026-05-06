@@ -11,7 +11,7 @@ sources: [RFP-05-Government-and-Emerging-Markets-Entry-Strategy.md]
 
 # RFP 05 - Government and Emerging Markets Entry Strategy
 
-Full tender specification: [RFP-05-Government-and-Emerging-Markets-Entry-Strategy.md](../../rfq/RFP-05-Government-and-Emerging-Markets-Entry-Strategy.md)
+Full tender specification: [RFP-05-Government-and-Emerging-Markets-Entry-Strategy.md](../rfp-full-draft/RFP-05-Government-and-Emerging-Markets-Entry-Strategy.md)
 
 ## At a Glance
 

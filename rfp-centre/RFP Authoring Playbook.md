@@ -16,8 +16,8 @@ Internal working note for maintaining the nine Product Research Initiative RFP p
 
 Each RFP has two layers:
 
-1. A short website page in `wiki/5-rfp-centre/`.
-2. A full tender specification in `rfq/`.
+1. A short website page in `rfp-centre/`.
+2. A full tender specification in `rfp-full-draft/`.
 
 The website page is for public scanning and bidder orientation. The full specification carries detailed decision gates, methodology guidance, deliverables, acceptance criteria, governance, and appendices.
 

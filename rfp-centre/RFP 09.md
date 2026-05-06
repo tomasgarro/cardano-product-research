@@ -11,7 +11,7 @@ sources: [RFP-09-AI-Commercial-Positioning.md]
 
 # RFP 09 - AI Commercial Positioning
 
-Full tender specification: [RFP-09-AI-Commercial-Positioning.md](../../rfq/RFP-09-AI-Commercial-Positioning.md)
+Full tender specification: [RFP-09-AI-Commercial-Positioning.md](../rfp-full-draft/RFP-09-AI-Commercial-Positioning.md)
 
 ## At a Glance
 

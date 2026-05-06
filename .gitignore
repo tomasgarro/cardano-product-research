@@ -1,16 +1,24 @@
 # Local workspace and source material not part of the M2 publication package
 .claude/
 .obsidian/
+AGENTS.md
+CLAUDE.md
 node_modules/
 raw/
 scripts/
+wiki/
 Brand assets-20260504T064832Z-3-002/
 Brand assets-20260504T064832Z-3-002.zip
 
 # Local/generated artifacts
+*.pdf
 *.xlsx
 *.base
 *.tmp
 ~$*
 CPC_Research_Knowledge_Graph.html
-
+rfp-full-draft/Product-Research-RFP-Metaprompt-v2.md
+rfp-full-draft/RFP-package-review-and-website-readiness.md
+rfp-full-draft/tender-ready-rfp-continuity-review-2026-05-06.md
+rfp-full-draft/Intersect Cardano Product Committee - official session - 2026_04_29 14_00 BST - Transcript.md
+rfp-full-draft/template screenshots/

@@ -4,10 +4,10 @@ This repository contains the Milestone 2 deliverables for the Cardano Product Co
 
 ## Contents
 
-- `wiki/5-rfp-centre/` - website-ready RFP centre pages for committee review, community review, and bidder orientation.
-- `rfq/RFP-01...RFP-09...md` - full tender-ready RFP specifications for the nine Product Research Initiative grants.
-- `rfq/evaluation_framework_guidance_product_committee.md` - shared evaluation framework and process.
-- `rfq/rfp_initative_list_intro_9.md` - portfolio-level introduction to the nine research initiatives.
+- `rfp-centre/` - website-ready RFP centre pages for committee review, community review, and bidder orientation.
+- `rfp-full-draft/RFP-01...RFP-09...md` - full tender-ready RFP specifications for the nine Product Research Initiative grants.
+- `rfp-full-draft/evaluation_framework_guidance_product_committee.md` - shared evaluation framework and process.
+- `rfp-full-draft/rfp_initative_list_intro_9.md` - portfolio-level introduction to the nine research initiatives.
 
 ## Current Status
 
@@ -24,4 +24,3 @@ The package is prepared for committee review. Final publication dates, submissio
 7. L2 Adoption and Interoperability Demand Study
 8. Enterprise Delivery Partner Network
 9. AI Commercial Positioning
-

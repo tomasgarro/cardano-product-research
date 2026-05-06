@@ -11,7 +11,7 @@ sources: [RFP-02-Use-Case-Landscape-and-Competitive-Positioning.md]
 
 # RFP 02 - Use-Case Landscape and Competitive Positioning
 
-Full tender specification: [RFP-02-Use-Case-Landscape-and-Competitive-Positioning.md](../../rfq/RFP-02-Use-Case-Landscape-and-Competitive-Positioning.md)
+Full tender specification: [RFP-02-Use-Case-Landscape-and-Competitive-Positioning.md](../rfp-full-draft/RFP-02-Use-Case-Landscape-and-Competitive-Positioning.md)
 
 ## At a Glance
 

@@ -11,7 +11,7 @@ sources: [RFP-03-Stablecoin-Liquidity-Incentive-and-Activation-Strategy.md]
 
 # RFP 03 - Stablecoin Liquidity Incentive and Activation Strategy
 
-Full tender specification: [RFP-03-Stablecoin-Liquidity-Incentive-and-Activation-Strategy.md](../../rfq/RFP-03-Stablecoin-Liquidity-Incentive-and-Activation-Strategy.md)
+Full tender specification: [RFP-03-Stablecoin-Liquidity-Incentive-and-Activation-Strategy.md](../rfp-full-draft/RFP-03-Stablecoin-Liquidity-Incentive-and-Activation-Strategy.md)
 
 ## At a Glance
 

@@ -11,7 +11,7 @@ sources: [RFP-08-Enterprise-Delivery-Partner-Network.md]
 
 # RFP 08 - Enterprise Delivery Partner Network
 
-Full tender specification: [RFP-08-Enterprise-Delivery-Partner-Network.md](../../rfq/RFP-08-Enterprise-Delivery-Partner-Network.md)
+Full tender specification: [RFP-08-Enterprise-Delivery-Partner-Network.md](../rfp-full-draft/RFP-08-Enterprise-Delivery-Partner-Network.md)
 
 ## At a Glance
 

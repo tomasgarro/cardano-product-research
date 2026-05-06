@@ -11,7 +11,7 @@ sources: [RFP-01-Customer-Segmentation-and-Profiling.md]
 
 # RFP 01 - Customer Segmentation and Profiling
 
-Full tender specification: [RFP-01-Customer-Segmentation-and-Profiling.md](../../rfq/RFP-01-Customer-Segmentation-and-Profiling.md)
+Full tender specification: [RFP-01-Customer-Segmentation-and-Profiling.md](../rfp-full-draft/RFP-01-Customer-Segmentation-and-Profiling.md)
 
 ## At a Glance
 

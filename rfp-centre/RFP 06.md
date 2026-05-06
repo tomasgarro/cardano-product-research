@@ -11,7 +11,7 @@ sources: [RFP-06-Enterprise-and-RWA-Readiness-Assessment.md]
 
 # RFP 06 - Enterprise and RWA Readiness Assessment
 
-Full tender specification: [RFP-06-Enterprise-and-RWA-Readiness-Assessment.md](../../rfq/RFP-06-Enterprise-and-RWA-Readiness-Assessment.md)
+Full tender specification: [RFP-06-Enterprise-and-RWA-Readiness-Assessment.md](../rfp-full-draft/RFP-06-Enterprise-and-RWA-Readiness-Assessment.md)
 
 ## At a Glance
 
