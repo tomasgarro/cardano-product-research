@@ -43,13 +43,7 @@ Vendors may combine deliverables where sensible, provided that every decision ga
 
 ### Requirement priority
 
-The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget.
-
-### Budget guidance
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. This is a portfolio-level budget, not a fixed allocation or cap for this RFP. Applicants should request the budget required to meet the evidence standard and explain how cost maps to scope, evidence access, specialist expertise, and decision value.
-
-This RFP is not implementation delivery, enterprise sales execution, partner-program operations, legal advice, or generic partnership strategy.
+The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget. This RFP is not implementation delivery, enterprise sales execution, partner-program operations, legal advice, or generic partnership strategy.
 
 ---
 
@@ -572,14 +566,7 @@ Applicants should propose a timeline appropriate to their methodology. Unrealist
 
 ---
 
-## 15. Budget Guidance
-
-Budgets should reflect delivery-firm access, peer benchmark depth, enterprise buyer input, sector/geography coverage, certification model analysis, co-funding assessment, and decision value. Applicants should separate core partner-network research from optional deeper peer or regional work.
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. Applicants may propose lower or higher budgets where justified by scope, evidence access, respondent access, specialist expertise, data costs, and decision value. CPC may negotiate scope and budget before award, and will assess value for money against evidence quality and usefulness rather than lowest price alone.
-
-
-## 16. Governance, Reporting, and Communication
+## 15. Governance, Reporting, and Communication
 
 The selected vendor will participate in structured checkpoints. The process should protect research quality without turning the work into committee-managed consulting.
 
@@ -624,7 +611,7 @@ The vendor should not wait until the final report to disclose:
 
 ---
 
-## 17. Risks, Bias Controls, and Safeguards
+## 16. Risks, Bias Controls, and Safeguards
 
 Applicants must include a research integrity plan.
 
@@ -648,7 +635,7 @@ The final report must include a limitations section explaining what the research
 
 ---
 
-## 18. Clarification Process
+## 17. Clarification Process
 
 Applicants may submit clarification questions during the clarification window.
 
@@ -673,7 +660,7 @@ The clarification process also helps assess applicant judgment. Strong questions
 
 ---
 
-## 19. Data Handling, Confidentiality, and Public Summary
+## 18. Data Handling, Confidentiality, and Public Summary
 
 The selected vendor must provide a data handling plan covering:
 
@@ -732,7 +719,7 @@ If a finding depends heavily on data CPC cannot inspect, the vendor must label t
 
 ---
 
-## 20. Human Subject Research Ethics
+## 19. Human Subject Research Ethics
 
 Because this RFP requires interviews or surveys with delivery firms, system integrators, enterprise buyers, procurement stakeholders, and potentially commercially sensitive respondents, the selected vendor must apply basic human-subject safeguards.
 
@@ -750,7 +737,7 @@ At minimum, the vendor should:
 
 ---
 
-## 21. Conflicts of Interest
+## 20. Conflicts of Interest
 
 Applicants and subcontractors must disclose any actual, potential, or perceived conflicts of interest, including:
 
@@ -777,13 +764,13 @@ Research outputs should separate:
 
 ---
 
-## 22. Terms and Conditions
+## 21. Terms and Conditions
 
 Standard terms and conditions will be provided through the shared tender process before award. Applicants should assume that final award terms will cover ownership and permitted publication of deliverables, confidentiality, payment milestones, termination, data protection, subcontractor approval, warranties or disclaimers, and the governing process.
 
 ---
 
-## 23. Appendix A: Proposal Checklist
+## 22. Appendix A: Proposal Checklist
 
 Applicants should confirm that their proposal includes:
 
@@ -816,7 +803,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 24. Appendix B: Suggested Partner Landscape Map Template
+## 23. Appendix B: Suggested Partner Landscape Map Template
 
 | Firm / Category | Partner Type | Geography | Sector Experience | Team Size / Capacity | Cardano Experience | Enterprise References | Delivery Capabilities | Support Model | Readiness Level | Evidence Source | Confidence | Recommended Action |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -824,7 +811,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 25. Appendix C: Suggested Enterprise Delivery Capability Template
+## 24. Appendix C: Suggested Enterprise Delivery Capability Template
 
 | Capability Area | Readiness Question | Evidence Required | Minimum Standard | Nice-to-Have | Failure Signal | Certification Implication |
 |---|---|---|---|---|---|---|
@@ -839,7 +826,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 26. Appendix D: Suggested Certification Framework Template
+## 25. Appendix D: Suggested Certification Framework Template
 
 | Tier / Status | Purpose | Eligibility Criteria | Evidence Required | Training Required | Renewal Requirement | Governance Control | Permitted Claims | Recommended Use |
 |---|---|---|---|---|---|---|---|---|
@@ -847,7 +834,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 27. Appendix E: Suggested Peer Reference Model Benchmark Template
+## 26. Appendix E: Suggested Peer Reference Model Benchmark Template
 
 | Peer Ecosystem / Programme | Partner Types | Certification Structure | Enablement Model | Co-Selling Model | Co-Funding Model | Governance Controls | Evidence of Outcomes | Transferability to Cardano | Limitations |
 |---|---|---|---|---|---|---|---|---|---|
@@ -855,7 +842,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 28. Appendix F: Suggested Co-Funded Implementation Assessment Template
+## 27. Appendix F: Suggested Co-Funded Implementation Assessment Template
 
 | Model | Buyer Contribution | Network / Ecosystem Contribution | Partner Contribution | Eligible Project Type | Funding Trigger | Delivery KPI | Adoption KPI | Conflict Control | Stop Condition | Recommendation |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -863,7 +850,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 29. Appendix G: Suggested Partner Recruitment and GTM Template
+## 28. Appendix G: Suggested Partner Recruitment and GTM Template
 
 | Target Partner Archetype | Value Proposition to Partner | Required Enablement | Incentive / Commercial Model | Target Geography | Target Sector | Recruitment Channel | Proof Needed | Risk | Recommended Action |
 |---|---|---|---|---|---|---|---|---|---|
@@ -871,7 +858,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 30. Appendix H: Suggested Pilot Engagement Pathway Template
+## 29. Appendix H: Suggested Pilot Engagement Pathway Template
 
 | Pilot Type | Partner Requirement | Buyer / Client Requirement | Scope Boundary | Funding Model | Milestones | Delivery KPI | Adoption KPI | Evidence Produced | Stop Condition | Next Decision |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -879,7 +866,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 31. Appendix I: Suggested Evidence Threshold Template
+## 30. Appendix I: Suggested Evidence Threshold Template
 
 | Decision Type | Minimum Evidence | Confidence Requirement | Required Controls | Approval Path | Renewal / Review Trigger |
 |---|---|---|---|---|---|
