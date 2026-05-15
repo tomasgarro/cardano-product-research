@@ -30,7 +30,7 @@ The selected vendor will produce a stablecoin liquidity baseline, venue and asse
 
 ### Requirement priority
 
-The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget.
+The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget. This RFP is research and strategy work. It is not the liquidity incentive pool itself.
 
 ---
 
