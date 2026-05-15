@@ -30,10 +30,6 @@ The selected vendor will produce a validated segment map, current Cardano custom
 
 The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget.
 
-### Budget guidance
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. This is a portfolio-level budget, not a fixed allocation or cap for this RFP. Applicants should request the budget required to meet the evidence standard and explain how cost maps to scope, evidence access, specialist expertise, and decision value.
-
 ---
 
 ## 2. Strategic Context
@@ -424,14 +420,7 @@ Applicants should propose a timeline appropriate to their methodology. Unrealist
 
 ---
 
-## 15. Budget Guidance
-
-Budgets should be proportionate to the proposed evidence standard, respondent access, team capacity, and deliverables. Applicants may propose optional stretch scope separately.
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. Applicants may propose lower or higher budgets where justified by scope, evidence access, respondent access, specialist expertise, data costs, and decision value. CPC may negotiate scope and budget before award, and will assess value for money against evidence quality and usefulness rather than lowest price alone.
-
-
-## 16. Governance, Reporting, and Communication
+## 15. Governance, Reporting, and Communication
 
 The selected vendor will participate in structured checkpoints.
 
@@ -448,7 +437,7 @@ The reporting cadence should be proportionate to project length, but at least on
 
 ---
 
-## 17. Risks, Bias Controls, and Safeguards
+## 16. Risks, Bias Controls, and Safeguards
 
 Applicants must include a research integrity plan.
 
@@ -468,7 +457,7 @@ The final report must include a limitations section explaining what the research
 
 ---
 
-## 18. Clarification Process
+## 17. Clarification Process
 
 Applicants may submit clarification questions during the clarification window.
 
@@ -490,7 +479,7 @@ The clarification process also helps assess applicant judgment. Strong questions
 
 ---
 
-## 19. Data Handling, Confidentiality, and Public Summary
+## 18. Data Handling, Confidentiality, and Public Summary
 
 The selected vendor must provide a data handling plan covering:
 
@@ -513,7 +502,7 @@ A public summary is required unless confidentiality constraints make specific fi
 
 ---
 
-## 20. Human Subject Research Ethics
+## 19. Human Subject Research Ethics
 
 Because this RFP requires interviews, surveys, or other primary research with current and potential users, the selected vendor must apply basic human-subject research safeguards.
 
@@ -530,7 +519,7 @@ The vendor should not publish respondent-identifying information without explici
 
 ---
 
-## 21. Conflicts of Interest
+## 20. Conflicts of Interest
 
 Applicants must disclose any actual, potential, or perceived conflicts of interest, including:
 
@@ -545,13 +534,13 @@ Declared conflicts do not automatically disqualify an applicant. Undisclosed con
 
 ---
 
-## 22. Terms and Conditions
+## 21. Terms and Conditions
 
 Standard terms and conditions will be provided through the shared tender process before award. Applicants should assume that final award terms will cover ownership and permitted publication of deliverables, confidentiality, payment milestones, termination, data protection, subcontractor approval, warranties or disclaimers, and the governing process.
 
 ---
 
-## 23. Appendix A: Proposal Checklist
+## 22. Appendix A: Proposal Checklist
 
 Applicants should confirm that their proposal includes:
 
@@ -573,7 +562,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 24. Appendix B: Required Decision Gate Mapping Template
+## 23. Appendix B: Required Decision Gate Mapping Template
 
 | Decision Gate | Method Used | Evidence Source | Deliverable | Limitation / Risk |
 |---|---|---|---|---|
