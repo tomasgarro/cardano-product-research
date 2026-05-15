@@ -32,10 +32,6 @@ The selected vendor will produce a Cardano use-case map, vertical screening matr
 
 The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget.
 
-### Budget guidance
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. This is a portfolio-level budget, not a fixed allocation or cap for this RFP. Applicants should request the budget required to meet the evidence standard and explain how cost maps to scope, evidence access, specialist expertise, and decision value.
-
 ---
 
 ## 2. Strategic Context
@@ -533,14 +529,7 @@ Applicants should propose a timeline appropriate to their methodology. Unrealist
 
 ---
 
-## 15. Budget Guidance
-
-Budgets should reflect the proposed number of verticals, depth of operator interviews, competitive benchmarking work, data sources, and decision value. A focused deep-dive scope with light screening may be stronger than shallow coverage across too many verticals.
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. Applicants may propose lower or higher budgets where justified by scope, evidence access, respondent access, specialist expertise, data costs, and decision value. CPC may negotiate scope and budget before award, and will assess value for money against evidence quality and usefulness rather than lowest price alone.
-
-
-## 16. Governance, Reporting, and Communication
+## 15. Governance, Reporting, and Communication
 
 The selected vendor will participate in structured checkpoints. The process should support research quality without becoming unnecessarily restrictive. CPC or a designated review group will align with the vendor on research design, vertical selection, and confidentiality expectations, while leaving room for the vendor to adapt methods as evidence and access constraints emerge.
 
@@ -561,7 +550,7 @@ The vendor should not wait until the final report to reveal weak access, thin ev
 
 ---
 
-## 17. Risks, Bias Controls, and Safeguards
+## 16. Risks, Bias Controls, and Safeguards
 
 Applicants must include a research integrity plan.
 
@@ -583,7 +572,7 @@ The final report must include a limitations section explaining what the research
 
 ---
 
-## 18. Clarification Process
+## 17. Clarification Process
 
 Applicants may submit clarification questions during the clarification window.
 
@@ -607,7 +596,7 @@ The clarification process also helps assess applicant judgment. Strong questions
 
 ---
 
-## 19. Data Handling, Confidentiality, and Public Summary
+## 18. Data Handling, Confidentiality, and Public Summary
 
 The selected vendor must provide a data handling plan covering:
 
@@ -647,7 +636,7 @@ If a finding depends heavily on data CPC cannot inspect, the vendor must label t
 
 ---
 
-## 20. Human Subject Research Ethics
+## 19. Human Subject Research Ethics
 
 Because this RFP requires interviews, the selected vendor must apply basic human-subject research safeguards.
 
@@ -664,7 +653,7 @@ At minimum, the vendor should:
 
 ---
 
-## 21. Conflicts of Interest
+## 20. Conflicts of Interest
 
 Applicants must disclose any actual, potential, or perceived conflicts of interest, including:
 
@@ -681,13 +670,13 @@ Declared conflicts do not automatically disqualify an applicant, but they must b
 
 ---
 
-## 22. Terms and Conditions
+## 21. Terms and Conditions
 
 Standard terms and conditions will be provided through the shared tender process before award. Applicants should assume that final award terms will cover ownership and permitted publication of deliverables, confidentiality, payment milestones, termination, data protection, subcontractor approval, warranties or disclaimers, and the governing process.
 
 ---
 
-## 23. Appendix A: Proposal Checklist
+## 22. Appendix A: Proposal Checklist
 
 Applicants should confirm that their proposal includes:
 
@@ -714,7 +703,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 24. Appendix B: Suggested Vertical Screening Template
+## 23. Appendix B: Suggested Vertical Screening Template
 
 | Vertical | Screen or Deep Dive | Current Cardano Signal | Peer-Chain Signal | Operator Access | Evidence Quality | Dependency / Handoff | Rationale |
 |---|---|---|---|---|---|---|---|
@@ -722,7 +711,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 25. Appendix C: Suggested Operator Win/Loss Register Template
+## 24. Appendix C: Suggested Operator Win/Loss Register Template
 
 | Decision | Operator | Public Attribution Status | Vertical | Chain / Ecosystem Chosen | Cardano Role | Attributed Reason | Evidence Source | Confidence |
 |---|---|---|---|---|---|---|---|---|
@@ -730,7 +719,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 26. Appendix D: Suggested Adoption Signal Classification Template
+## 25. Appendix D: Suggested Adoption Signal Classification Template
 
 | Vertical | Strong Signal | Medium Signal | Weak Signal | Excluded Signal | Measurement Notes |
 |---|---|---|---|---|---|
