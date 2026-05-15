@@ -1,14 +1,3 @@
----
-title: Submission Pack
-type: overview
-section: 5
-created: 2026-04-23
-updated: 2026-05-05
-tags: [rfp, m2, submission, templates]
-status: publication-draft
-sources: [Product Research RFP package]
----
-
 # Submission Pack
 
 Every bid should include the documents below unless the specific RFP states otherwise. The goal is to make proposals comparable while giving applicants room to explain their method.
