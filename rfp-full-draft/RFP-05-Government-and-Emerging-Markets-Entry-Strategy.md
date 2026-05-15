@@ -39,13 +39,7 @@ The selected vendor will produce a market prioritization matrix, regional entry 
 
 ### Requirement priority
 
-The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget.
-
-### Budget guidance
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. This is a portfolio-level budget, not a fixed allocation or cap for this RFP. Applicants should request the budget required to meet the evidence standard and explain how cost maps to scope, evidence access, specialist expertise, and decision value.
-
-This RFP is not lobbying, government affairs execution, market-entry delivery, grant distribution, event sponsorship, public-sector business development, or legal advice. Regulatory work should be decision-oriented landscape mapping with uncertainty clearly labeled.
+The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget. This RFP is not lobbying, government affairs execution, market-entry delivery, grant distribution, event sponsorship, public-sector business development, or legal advice. Regulatory work should be decision-oriented landscape mapping with uncertainty clearly labeled.
 
 ---
 
@@ -599,14 +593,7 @@ Applicants should propose a timeline appropriate to their methodology. Unrealist
 
 ---
 
-## 15. Budget Guidance
-
-Budgets should reflect regional expertise, country-cluster depth, counterparty research, regulatory landscape work, local-language needs, travel if any, and decision value. Applicants should separate core scope from optional deeper regional work.
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. Applicants may propose lower or higher budgets where justified by scope, evidence access, respondent access, specialist expertise, data costs, and decision value. CPC may negotiate scope and budget before award, and will assess value for money against evidence quality and usefulness rather than lowest price alone.
-
-
-## 16. Governance, Reporting, and Communication
+## 15. Governance, Reporting, and Communication
 
 The selected vendor will participate in structured checkpoints. The process should support research quality without becoming unnecessarily restrictive. CPC or a designated review group will align with the vendor on research design, region scope, use-case scope, stakeholder access, regulatory mapping, confidentiality expectations, and publication boundaries, while leaving room for the vendor to adapt methods as evidence and access constraints emerge.
 
@@ -628,7 +615,7 @@ The vendor should not wait until the final report to disclose weak counterparty 
 
 ---
 
-## 17. Risks, Bias Controls, and Safeguards
+## 16. Risks, Bias Controls, and Safeguards
 
 Applicants must include a research integrity plan.
 
@@ -652,7 +639,7 @@ The final report must include a limitations section explaining what the research
 
 ---
 
-## 18. Clarification Process
+## 17. Clarification Process
 
 Applicants may submit clarification questions during the clarification window.
 
@@ -676,7 +663,7 @@ The clarification process also helps assess applicant judgment. Strong questions
 
 ---
 
-## 19. Data Handling, Confidentiality, and Public Summary
+## 18. Data Handling, Confidentiality, and Public Summary
 
 The selected vendor must provide a data handling plan covering:
 
@@ -714,7 +701,7 @@ If a finding depends heavily on data CPC cannot inspect, the vendor must label t
 
 ---
 
-## 20. Human Subject Research Ethics
+## 19. Human Subject Research Ethics
 
 Because this RFP may require interviews, expert calls, workshops, or surveys with sensitive stakeholders, the selected vendor must apply basic human-subject research safeguards.
 
@@ -733,7 +720,7 @@ At minimum, the vendor should:
 
 ---
 
-## 21. Conflicts of Interest
+## 20. Conflicts of Interest
 
 Applicants must disclose any actual, potential, or perceived conflicts of interest, including:
 
@@ -751,13 +738,13 @@ Declared conflicts do not automatically disqualify an applicant, but they must b
 
 ---
 
-## 22. Terms and Conditions
+## 21. Terms and Conditions
 
 Standard terms and conditions will be provided through the shared tender process before award. Applicants should assume that final award terms will cover ownership and permitted publication of deliverables, confidentiality, payment milestones, termination, data protection, subcontractor approval, warranties or disclaimers, and the governing process.
 
 ---
 
-## 23. Appendix A: Proposal Checklist
+## 22. Appendix A: Proposal Checklist
 
 Applicants should confirm that their proposal includes:
 
@@ -785,7 +772,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 24. Appendix B: Suggested Market Prioritization Template
+## 23. Appendix B: Suggested Market Prioritization Template
 
 | Region / Country Cluster | Candidate Use Case | Problem Severity | Cardano Fit | Regulatory Readiness | Counterparty Access | Infrastructure Readiness | Delivery Capacity | Adoption Pathway | Risk | Confidence | Recommendation |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -793,7 +780,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 25. Appendix C: Suggested Regional Playbook Template
+## 24. Appendix C: Suggested Regional Playbook Template
 
 | Field | Content |
 |---|---|
@@ -813,7 +800,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 26. Appendix D: Suggested Regulatory Landscape Template
+## 25. Appendix D: Suggested Regulatory Landscape Template
 
 | Region | Use Case | Relevant Authorities | Key Rules / Constraints | License or Approval Need | Data / Privacy Considerations | Procurement Considerations | Stablecoin / Payment Considerations | Uncertainty | Further Diligence Needed |
 |---|---|---|---|---|---|---|---|---|---|
@@ -821,7 +808,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 27. Appendix E: Suggested Counterparty and Partner Access Register
+## 26. Appendix E: Suggested Counterparty and Partner Access Register
 
 | Region | Counterparty / Archetype | Role in Entry Play | Access Status | Evidence Source | Interest / Posture | Dependency | Follow-On Action | Confidentiality |
 |---|---|---|---|---|---|---|---|---|
@@ -829,7 +816,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 28. Appendix F: Suggested Adoption Signal and Handoff Template
+## 27. Appendix F: Suggested Adoption Signal and Handoff Template
 
 | Region | Use Case | Signal Observed | Signal Strength | Why It Matters | What It Does Not Prove | Next Evidence Needed | Handoff / Owner | Recommended Action |
 |---|---|---|---|---|---|---|---|---|
