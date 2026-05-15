@@ -1,14 +1,3 @@
----
-title: Clarifications & FAQ
-type: overview
-section: 5
-created: 2026-04-23
-updated: 2026-05-05
-tags: [rfp, m2, faq, clarifications]
-status: publication-draft
-sources: [Product Research RFP package]
----
-
 # Clarifications & FAQ
 
 This page is the public clarification record for the nine Product Research Initiative RFPs. It should contain bidder questions, official responses, and any formal addenda.
