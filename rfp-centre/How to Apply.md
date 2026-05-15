@@ -1,14 +1,3 @@
----
-title: How to Apply
-type: overview
-section: 5
-created: 2026-04-23
-updated: 2026-05-05
-tags: [rfp, m2, application, process]
-status: publication-draft
-sources: [Product Research RFP package]
----
-
 # How to Apply
 
 This page explains the common application process for the nine Product Research Initiative RFPs. The Product Research Initiatives - Grants main page will state the publication date, submission deadline, clarification window, budget, and submission channel.
