@@ -41,13 +41,7 @@ Vendors may combine deliverables where sensible, provided that every decision ga
 
 ### Requirement priority
 
-The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget.
-
-### Budget guidance
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. This is a portfolio-level budget, not a fixed allocation or cap for this RFP. Applicants should request the budget required to meet the evidence standard and explain how cost maps to scope, evidence access, specialist expertise, and decision value.
-
-This RFP is not AI product development, pilot execution, protocol implementation, technical roadmap authorship, grant advocacy, or marketing campaign work.
+The required core is to answer the decision gates with traceable evidence and produce the required decision outputs. Optional methods, templates, or stretch work should be separated from the core scope and budget. This RFP is not AI product development, pilot execution, protocol implementation, technical roadmap authorship, grant advocacy, or marketing campaign work.
 
 ---
 
@@ -504,14 +498,7 @@ Applicants should propose a timeline appropriate to their methodology. Unrealist
 
 ---
 
-## 15. Budget Guidance
-
-Budgets should reflect buyer access, AI market expertise, competitive research, current-activity validation, use-case screening, narrative or claim testing where proposed, and decision value. Applicants should separate core AI positioning work from optional deeper use-case or audience testing.
-
-The Product Research Initiatives portfolio has an approximate total funding pool of 380,000 ADA across nine RFP areas. Applicants may propose lower or higher budgets where justified by scope, evidence access, respondent access, specialist expertise, data costs, and decision value. CPC may negotiate scope and budget before award, and will assess value for money against evidence quality and usefulness rather than lowest price alone.
-
-
-## 16. Governance, Reporting, and Communication
+## 15. Governance, Reporting, and Communication
 
 The selected vendor will participate in structured checkpoints. The process should protect research quality without turning the work into committee-managed consulting.
 
@@ -556,7 +543,7 @@ The vendor should not wait until the final report to disclose:
 
 ---
 
-## 17. Risks, Bias Controls, and Safeguards
+## 16. Risks, Bias Controls, and Safeguards
 
 Applicants must include a research integrity plan.
 
@@ -579,7 +566,7 @@ The final report must include a limitations section explaining what the research
 
 ---
 
-## 18. Clarification Process
+## 17. Clarification Process
 
 Applicants may submit clarification questions during the clarification window.
 
@@ -603,7 +590,7 @@ The clarification process should also help assess applicant judgment. Strong que
 
 ---
 
-## 19. Data Handling, Confidentiality, and Public Summary
+## 18. Data Handling, Confidentiality, and Public Summary
 
 The selected vendor must provide a data handling plan covering:
 
@@ -663,7 +650,7 @@ If a finding depends heavily on data CPC cannot inspect, the vendor must label t
 
 ---
 
-## 20. Human Subject Research Ethics
+## 19. Human Subject Research Ethics
 
 Because this RFP may require interviews, expert calls, or surveys with buyers, builders, enterprise stakeholders, ecosystem participants, and commercially sensitive respondents, the selected vendor must apply basic human-subject safeguards.
 
@@ -681,7 +668,7 @@ At minimum, the vendor should:
 
 ---
 
-## 21. Conflicts of Interest
+## 20. Conflicts of Interest
 
 Applicants and subcontractors must disclose any actual, potential, or perceived conflicts of interest, including:
 
@@ -707,13 +694,13 @@ Research outputs should separate:
 
 ---
 
-## 22. Terms and Conditions
+## 21. Terms and Conditions
 
 Standard terms and conditions will be provided through the shared tender process before award. Applicants should assume that final award terms will cover ownership and permitted publication of deliverables, confidentiality, payment milestones, termination, data protection, subcontractor approval, warranties or disclaimers, and the governing process.
 
 ---
 
-## 23. Appendix A: Proposal Checklist
+## 22. Appendix A: Proposal Checklist
 
 Applicants should confirm that their proposal includes:
 
@@ -740,7 +727,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 24. Appendix B: Suggested Decision Gate Mapping Template
+## 23. Appendix B: Suggested Decision Gate Mapping Template
 
 | Decision Gate | Method Used | Evidence Source | Deliverable | Limitation / Risk |
 |---|---|---|---|---|
@@ -759,7 +746,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 25. Appendix C: Suggested AI Use-Case Screening Template
+## 24. Appendix C: Suggested AI Use-Case Screening Template
 
 | AI Use Case | Buyer / Adopter Segment | Problem | Technical Requirement | Cardano Relevance | Competitor Alternative | Delivery Route | Revenue Pathway | Cardano-Side Value | Evidence Source | Confidence | Recommended Action |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -767,7 +754,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 26. Appendix D: Suggested Competitive Benchmark Template
+## 25. Appendix D: Suggested Competitive Benchmark Template
 
 | Use Case | Buyer Requirement | Cardano Position | Relevant Alternatives | Evidence of Advantage | Evidence of Weakness | Switching / Adoption Condition | Confidence | Strategic Implication |
 |---|---|---|---|---|---|---|---|---|
@@ -775,7 +762,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 27. Appendix E: Suggested Narrative Stress-Test Template
+## 26. Appendix E: Suggested Narrative Stress-Test Template
 
 | Positioning Claim | Target Audience | Required Proof | Credibility Response | Objections | Evidence Gap | Recommendation |
 |---|---|---|---|---|---|---|
@@ -783,7 +770,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 28. Appendix F: Suggested AI Adoption Pathway Template
+## 27. Appendix F: Suggested AI Adoption Pathway Template
 
 | Buyer Segment | Use Case | Required Capability | Partner / Delivery Route | Revenue Pathway | Transaction Pathway | Cardano-Side Value | Adoption Signal | Minimum Evidence Threshold | Go/No-Go Condition |
 |---|---|---|---|---|---|---|---|---|---|
@@ -791,7 +778,7 @@ Applicants should confirm that their proposal includes:
 
 ---
 
-## 29. Appendix G: Suggested Current Activity Evidence Register
+## 28. Appendix G: Suggested Current Activity Evidence Register
 
 | Activity / Project Category | Source | Claim | Evidence Type | Validation Status | Adoption Signal | Limitation | Confidence | Treatment in Public Summary |
 |---|---|---|---|---|---|---|---|---|
